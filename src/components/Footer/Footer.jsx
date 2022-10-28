@@ -3,9 +3,9 @@ import React from 'react'
 const Footer = () => {
   return (
     
-<footer class="w-full fixed bottom-0 font-[montserrat] py-16 bg-[#2f084e] bg-opacity-30 rounded-t-full border-white border-t-2">
-    <div class="md:px-12 lg:px-28">
-        <div class="container m-auto space-y-6 text-white">
+<footer class="w-full mt-auto font-[montserrat] py-16 bg-[#2f084e] bg-opacity-30 rounded-t-full border-white border-t-2">
+    <div class="">
+        <div class="container m-auto space-y-6 text-white flex flex-col items-center justify-center">
             <h1 className='font-bold text-4xl'>MOJ</h1>
             {/* <img src="images/logo.svg" alt="logo tailus" class="w-40 m-auto" /> */}
             {/* <ul role="list" class="py-4 flex flex-col gap-4 items-center justify-center sm:flex-row sm:gap-8">

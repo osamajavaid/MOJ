@@ -9,7 +9,7 @@ const Navbar = () => {
     return (
         <div>
 
-            <nav className="font-[montserrat] border-gray-200 rounded-b-3xl px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800">
+            <nav className="font-[montserrat] w-full py-2.5 px-8">
                 <div className="container flex flex-wrap justify-between items-center mx-auto relative">
                     <a href="#" className="flex items-center">
                         {/* <img src="/docs/images/logo.svg" className="mr-3 h-6 sm:h-9" alt="MOJ_Logo"/> */}

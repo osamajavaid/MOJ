@@ -4,6 +4,9 @@
 
 body{
     background-color: #000540;
-background-image: url("./assets/bc.png");
+    background-image: url("./assets/bc.png");
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
-}
+} 
