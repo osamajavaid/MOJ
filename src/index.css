@@ -1,6 +1,6 @@
 @tailwind base;
 :root {
-    --primary: rgba(0, 0, 99, 0.863);
+    --primary: rgba(138, 138, 175, 0.863);
     --secondary: cornflowerblue;
 }
 * {
@@ -29,7 +29,8 @@
 
 body{
     background-color: #000540;
-    background-image: url("./assets/bc.png");
+    background-color: #dadada;
+    /* background-image: url("./assets/bc.png"); */
     display: flex;
     flex-direction: column;
     min-height: 100vh;
