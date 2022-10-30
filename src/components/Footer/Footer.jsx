@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     
-<footer class="w-full mt-auto font-[montserrat] py-16 bg-[#2f084e] bg-blue-700 rounded-t-full border-white border-t-2">
+<footer class="w-full mt-auto font-[montserrat] py-16 bg-blue-700 rounded-t-full border-white border-t-2">
     <div class="">
         <div class="container m-auto space-y-6 text-white flex flex-col items-center justify-center">
             <h1 className='font-bold text-4xl'>MOJ</h1>
